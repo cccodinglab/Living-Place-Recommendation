@@ -10,11 +10,11 @@ Install the python on your computer & download our document
 
 3.EXECUTION
   1. Download the Document:
-      demo is in CODE/FrontEnd
-        1. decompress the zip document
+      Demo is in CODE/FrontEnd
+        1. Decompress the zip document
         2. Open up the console
-        3. enter `cd + CODE document link`
-        4. enter `python3 -m http.server 8888` in the console
+        3. Enter `cd + CODE document link`
+        4. Enter `python3 -m http.server 8888` in the console
         5. Open `http://localhost:8888/FrontEnd/` in your browser
 
 ## Data Source
