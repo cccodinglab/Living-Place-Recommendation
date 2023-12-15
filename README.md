@@ -9,12 +9,7 @@ We are building an online platform that provides proper recommendations for apar
 Install the python on your computer & download our document
 
 3.EXECUTION
-
-  1. Cilck the following link 
-
-      See the demo in link : https://jingyi1030.github.io/test666/apartmentsystem/FrontEnd/
-
-  2. Download the Document:
+  1. Download the Document:
       demo is in CODE/FrontEnd
         1. decompress the zip document
         2. Open up the console
